@@ -31,11 +31,9 @@ To maintain the quality of the project, it's important to ensure that your contr
 
 We'd like to express our gratitude to the following individuals and projects for their valuable contributions and inspiration:
 
-! (https://github.com/Parv-gugnani.png) [Parv](https://github.com/Parv-gugnani)
-![project name](https://github.com/open-source-project)
+![Parv's Profile](https://github.com/Parv-gugnani.png) [Parv](https://github.com/Parv-gugnani)
+![Open Source Project](https://github.com/open-source-project)
 
 ## Thank You
 
 We appreciate your contributions and your commitment to making **Hacktoberfest 2023** a success. Your involvement in this open-source celebration is highly valued, and we look forward to collaborating with you.
-
-If you have questions, need assistance, or want to clarify anything, feel free to reach out to us at hacktoberfest@example.com.
