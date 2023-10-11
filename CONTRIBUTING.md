@@ -31,9 +31,8 @@ To maintain the quality of the project, it's important to ensure that your contr
 
 We'd like to express our gratitude to the following individuals and projects for their valuable contributions and inspiration:
 
-- [Name of Contributor 1](https://github.com/Parv-gugnani)
-- [Name of Contributor 2](https://github.com/contributor2)
-- [Name of Open Source Project]
+!(https://github.com/Parv-gugnani.png) [Parv](https://github.com/Parv-gugnani)
+![project name](https://github.com/open-source-project)
 
 ## Thank You
 
